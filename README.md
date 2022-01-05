@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DEOMNEUROHACK
+- 👋 Hi, I’m @DEMON-NEUROHACK
 - 👀 I’m interested in bioinformatics
 - 👀 The DEMON Network is launching NEUROHACK, a 4-day competitive international hackathon on the 11th-14th January 2022. Selected participants will attend in-person at hubs in London and Los Angeles. A limited number of places for virtual attendance will also be made available. A variety of exciting challenges will be on offer, using data science and machine learning to promote brain health and combat neurodegeneration. 
 - 📫 How to reach me DEOMNEUROHACK@gmail.com 
